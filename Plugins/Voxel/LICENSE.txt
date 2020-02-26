@@ -1,0 +1,255 @@
+Royalty Free License
+This is a legally binding agreement between licensee (“you”), and Voxel Plugin regarding your
+rights to use the Voxel Plugin PRO Product under this license. “You” refers to the purchasing
+entity, whether that is a natural person who must be at least 18 years of age, or a corporate
+entity. The rights granted in this agreement are granted to the purchasing entity, its parent
+company, and its majority owned affiliates on a “royalty free” basis, which means that after a
+Purchase, there are no future royalties or payments that are required. Collectively, these rights
+are considered “extended uses”, and are granted to you. The license granted is wholly
+transferable to other parties so long it is in force and not terminated, otherwise violated, or
+extinguished, as set forth herein.  The terms of the license are as follows:
+
+I. Introduction & Definitions
+Definitions
+This agreement is intended to be easy to understand, and to provide clarity for using the Voxel
+Plugin PRO Product in the work you create (“Creations”). 
+Some words in this agreement are given specific meanings. Words that appear initially in quotations,
+such as “you” and “Creations”, are defined in the text preceding the word. Other capitalized
+words are defined below:
+“Voxel Plugin PRO Product” is the collection of one or more digital files, packaged in the form
+of a product made available to you for download with a license key provided to you upon purchase of
+the Voxel Plugin PRO Product. The Voxel Plugin PRO Product may include 3D models, texture maps,
+materials and shaders, shapes and vector graphics, training materials, building components, and C++
+files. For Customers and their use in Creations, this definition also includes derivative and
+intermediary files used for that purpose.
+“Purchase” is the acquisition of a Voxel Plugin PRO Product by you under this agreement.
+“Computer Game” is a type of Creation that includes digital games, computer-based games,
+handheld electronic games, mobile games, online games, social games, game mods, and console-based
+games.
+“Imagery” is a Creation made of any single image or sequence of images.
+“Intellectual Property” means, copyright, trademark, trade secret, right of publicity, or any
+other proprietary right throughout the world.
+To make reading this agreement easier and less repetitive, the following constructions are used:
+“Include,” including,” and “such as” are considered to be followed with “but not limited
+to.” Examples are used in this agreement to illustrate, rather than limit, the scope of the terms.
+“The following restrictions”, “the foregoing restrictions”, and “subject to the
+restrictions” are considered to be followed with “in addition to all other restrictions
+applicable within this agreement.”
+
+II. License Rights
+1. Ownership. You are not granted title or ownership to the Voxel Plugin PRO Product under this
+license. All rights in the Voxel Plugin PRO Product not expressly granted in this agreement are
+reserved.
+2. Rights Granted. For the Voxel Plugin PRO Product, You are granted a non-exclusive, perpetual,
+worldwide right and license to copy, distribute, reproduce, adapt, publicly display, publicly
+perform, digitally perform, transmit, broadcast, telecast, advertise, create derivative works, and
+market the Voxel Plugin PRO Product within Creations in the uses authorized in this agreement. You
+may request authorization for a use not covered by this agreement (“New Use”) in writing to
+phyronnaz@gmail.com.
+3. Rights Granted When Sharing the Voxel Plugin PRO Product. If you Purchase as an employee of a
+corporate entity, sharing Purchased Voxel Plugin PRO Products with other employees of your corporate
+entity is allowed. Examples of allowed sharing include storing files on a networked hard drive, and
+storing the Voxel Plugin PRO Product for later use in future Creations. You are responsible for any
+downstream distribution, use, or misuse by a recipient of a Voxel Plugin PRO Product. In all cases,
+sharing Voxel Plugin PRO Products with external people or entities is only allowed in the following
+situations, and with the following restrictions:
+a. In the production of a Creation owned by you, if you are working in collaboration with external
+parties, and there is a need to share the Voxel Plugin PRO Product for the development and
+production of your Creation, sharing the Voxel Plugin PRO Product with those external parties is
+allowed. Any external party that receives the Voxel Plugin PRO Product may only use the Voxel Plugin
+PRO Product on your Creations and must take reasonable care to secure and limit access to the Voxel
+Plugin PRO Product to that purpose.
+b. In the production of a Creation owned by another entity (“your Client”), if you are working
+as a contractor and need to share the Voxel Plugin PRO Product with your Client, or any external
+parties working with your Client, sharing the Voxel Plugin PRO Product is allowed, subject to the
+restriction that all parties may use the Voxel Plugin PRO Product only for your Client’s
+particular Creation, and for successive versions of your Client’s Creation, such as sequel
+Computer Games or movies that utilize the same 3D models. All parties must take reasonable care to
+secure and limit access to the Voxel Plugin PRO Product to the parties working on your Client’s
+Creation. For all other use by any party, the Voxel Plugin PRO Product must be Purchased again to
+create a new license agreement governing that use.
+4.  Creations of Imagery.
+Permitted Uses of Creations of Imagery. Subject to the following restrictions, you may use Creations
+of Imagery within news, film, movies, television programs, video projects, multi-media projects,
+theatrical display, software user interfaces; architectural renderings, Computer Games, virtual
+worlds, simulation and training environments; corporate communications, marketing collateral,
+tradeshow promotional items, booth decorations and presentations; pre-visualizations, product
+prototyping and research; mobile, web, print, television, and billboard advertising; online and
+electronic publications of blogs, literature, social media, and email campaigns; website designs and
+layouts, desktop and mobile wallpapers, screensavers, toolbar skins; books, magazines, posters,
+greeting cards; apparel items, brochures, framed or printed artwork, household items, office items,
+lenticular prints, product packaging and manufactured products.
+Restrictions on Permitted Uses of Creations of Imagery.
+Business Logos. You may NOT use Imagery in any Creation that is a trademark, servicemark, or
+business logo. This restriction is included because the owners of these types of Creations typically
+seek exclusivity on the use of the imagery in their Creation, which is incompatible with the
+non-exclusive license granted to you under this agreement.
+5. Creations of Computer Games and Software
+Permitted Uses in Creations of Computer Games and Software. Subject to the following restrictions,
+you may use the Voxel Plugin PRO Product in Creations of Computer Games, virtual worlds, simulation
+and training environments; mobile, desktop and web applications; and interactive electronic
+publications of literature such as e-books and electronic textbooks.
+Restrictions on Permitted Uses of the Voxel Plugin PRO Product in Creations of Games and Software.
+a.  Access to the Voxel Plugin PRO Product. You must take all reasonable and industry standard
+measures to prevent other parties from gaining access to the Voxel Plugin PRO Product. The Voxel
+Plugin PRO Product must be contained in proprietary formats so that they cannot be opened or
+imported in a publicly available software application or framework or extracted without reverse
+engineering. 
+b. Plugin Sales. You may NOT upload, reproduce, make available, publish, transmit, distribute, or
+sublicense the Voxel Plugin PRO Product in Creations of a software plugin. 
+6. Creations of Physical Form.
+Permitted Uses in Creations of Physical Form. Subject to the following restrictions, you may use the
+Voxel Plugin PRO Product to make Physical Creations such as 3D printed works, articles of
+manufacture, custom vehicles, furniture, jewelry, sculptural artwork, toys, and physical
+entertainment goods (“Creations of Physical Form”).
+Restrictions on Permitted Uses in Creations of Physical Form.
+a.  No Other-Party Intellectual Property. You may NOT reproduce Other-Party Intellectual Property in
+any Creation of Physical Form for any purpose. For example, you may NOT make Physical Form Creations
+of a copyrighted character (Spiderman, Elsa, Slimer), or branded technology (Apple, Toshiba,
+Samsung).
+7.  Unauthorized Use. If you use the Voxel Plugin PRO Product in an unauthorized way, your license
+may be terminated and you may be liable for other penalties, damages, losses, and profits. The following
+are unauthorized uses that are explicitly prohibited:
+a. Competition. You may NOT use the Voxel Plugin PRO Product in a way that competes with the Voxel
+Plugin PRO Products themselves.
+b. Re-Distribution. You may NOT re-distribute, publish, or make the Voxel Plugin PRO Products
+available to any third party except in the form of a permitted Creation, or shared as authorized in
+this agreement.
+c. Group Buying. You may NOT aggregate funds to Purchase the Voxel Plugin PRO Product with one or
+more other parties. An example of this prohibited use is a website membership where members pool
+their money to make a single Purchase that is shared by the members of the group. Each such member
+must Purchase individually.
+d. No Obscene or Unlawful Use. You may NOT use the Voxel Plugin PRO Product for any defamatory,
+harassing, pornographic, obscene, or racist purpose, or to infringe any party’s Intellectual
+Property rights.
+e. False Attribution. You may NOT misrepresent yourself as the creator of Voxel Plugin PRO Products.
+8. Agents and Resellers. The license granted herein is wholly transferable by an authorized agent or
+reseller to another party (“Agent”). The party the license is wholly transferred to shall be the
+transferee (“Transferee”). Each transferred license must be transferred entirely and all
+transferred the Voxel Plugin PRO Product must be permanently deleted from the Agent’s systems
+after the transfer. When transferring the license, an Agent represents and warrant that the Agent
+has the authority to bind the Transferee to these terms. The Agent is jointly and severally
+responsible with any Transferee and each are liable for the transferee’s use and compliance with
+this license as well as any financial obligations hereunder.
+
+III. License Term & Termination
+1. Term. Your right and license to the Voxel Plugin PRO Product is perpetual, unless terminated as
+described herein.
+2. Termination. Your license grant is terminated immediately and without notice in the cases below.
+In such termination, you and any recipients of the Voxel Plugin PRO Product must cease use,
+distribution, and destroy all copies of the Voxel Plugin PRO Product.
+a. Reversal of Purchase. Your right and license to the Voxel Plugin PRO Product are contingent on
+your Purchase of the Voxel Plugin PRO Product. Any payment reversal of a Purchase for any reason
+immediately terminates all rights granted under this agreement. 
+b. Failure to Abide by the License Grant. Material failure to abide by the terms of this agreement
+immediately terminates your right and license to the Voxel Plugin PRO Product. If you detect a
+violation of the license grant by you or any recipient of the Voxel Plugin PRO Product, and promptly
+report the violation to phyronnaz@gmail.com, Voxel Plugin PRO will make a good faith effort to find
+an appropriate remedy to preserve your license grant.
+
+IV. Warranties
+You covenant, represent, and warrant that:
+1. You have full right, power, legal capacity, and authority to enter into and perform this
+agreement, have obtained any third-party consent needed to do so, and, prior to any Purchase, had an
+opportunity to seek independent legal counsel.
+2. You will not use the Voxel Plugin PRO Product except pursuant to the terms of this agreement.
+Should you use the Voxel Plugin PRO Product in an unauthorized way, you agree to any reasonable fee
+or penalty exercised under this agreement or applicable law.
+3. You will, prior to Purchase, determine the need for and, if appropriate, obtain any needed
+third-party clearance, consent, or release to use Other-Party Intellectual Property shown in the
+digital rendering of the Voxel Plugin PRO Product, and shall not use the Voxel Plugin PRO Product to
+infringe any party’s Intellectual Property rights.
+4. You will immediately send a written notification to phyronnaz@gmail.com of any Intellectual
+Property claim against your use of the Voxel Plugin PRO Product or any other rights issue, before
+disclosing such issue to any third-party.
+
+V. Limitation of Liability
+1. The Voxel Plugin PRO Product is provided on an “as is”, “as available”, and “with all
+faults” basis. No representations, warranties, conditions, or guarantees are made as to the
+usefulness, quality, suitability, truth, fitness for a particular purpose, non-infringement,
+merchantability, or cosmetic attributes of the Voxel Plugin PRO Product, and no guarantee is made to
+the accuracy or completeness of specifications associated with the Voxel Plugin PRO Product,
+including measurements, materials, general properties, regulatory compliance, other engineering or
+construction attributes.
+2. Voxel Plugin disclaims all express or implied conditions, representations, and warranties of any
+kind regarding the Voxel Plugin PRO Product, including any implied warranty or condition of
+merchantability. Voxel Plugin allows your Purchase to be refunded under certain reasonable time
+frames and conditions, subject to the Site’s policies.
+3. You assume all risk for any damage to your computer systems and network for any damage to your
+computer system by obtaining the Voxel Plugin PRO Product, including any damages resulting from
+computer viruses.
+4. To the fullest extent permitted by law, Voxel Plugin shall not be liable for (A) any direct,
+indirect, punitive, special, incidental, consequential, or exemplary damages (including loss of
+business, revenue, profits, goodwill, use, data, electronically transmitted orders, or other
+economic advantage) arising out of or in connection with the Voxel Plugin PRO Product, even if Voxel
+Plugin has previously been advised of, or reasonably could have foreseen, the possibility of such
+damages, however they arise, whether in breach of contract or in tort (including negligence) or (B)
+any damages in excess of $1,000. To the extent that any jurisdiction does not allow the exclusion or
+limitation of direct, incidental, or consequential damages, portions of the preceding limitation or
+exclusion may not apply, but should be construed to the greatest extent applicable in such
+jurisdictions. Notwithstanding anything to the contrary herein, the Voxel Plugin indemnification
+obligation set forth below shall be limited to ten thousand ($10,000) dollars.
+5. You agree to indemnify and hold Voxel Plugin and its subsidiaries, affiliates, shareholders,
+officers, directors, agents, licensors, licensee, suppliers, alliance members, other partners,
+employees and representatives (“Voxel Plugin Parties”) harmless from any claim or demand,
+including reasonable attorneys’ fees, made by any third party due to, or arising out of your use
+of the Source Material or Creations.
+6. Subject to sections 4 and 5 above, Voxel Plugin shall indemnify, defend, and hold you harmless
+from and against any claim or demand, including reasonable attorneys’ fees made by any third party
+for copyright or trademark infringement due to or arising out of your use of the Voxel Plugin PRO
+Product in accordance with these Terms, but excluding any modifications made by You, if such
+infringement was caused by the modification. This indemnity shall not apply to a brand name or other
+third party intellectual property prior identified in the Voxel Plugin PRO Product.
+7. In the event of an indemnification claim by You, you agree to provide notice to
+phyronnaz@gmail.com within thirty days’ of receiving any claim and allowing Voxel Plugin to fully
+control such claim, including but not limited to, selection of counsel, reasonable diligence into
+the claim, and if necessary litigation and/or settlement.
+
+VI. Other Terms
+1. Entire Agreement. This agreement constitutes the entire agreement between you and Voxel Plugin
+relating to your Purchase. No modification to this agreement will be binding, unless in writing and
+signed by an authorized Voxel Plugin representative.
+2. Material Breach. You agree that any material breach of these Terms will result in irreparable
+harm to Voxel Plugin for which damages would be an inadequate remedy and, therefore, in addition to
+its rights and remedies otherwise available at law, Voxel Plugin will be entitled to equitable
+relief, including both a preliminary and permanent injunction, if such a breach occurs. You waive
+any requirement for the posting of a bond or other security if Voxel Plugin seeks such an
+injunction.
+3. Import/Export Regulations. The Voxel Plugin PRO Product may be subject to the U.S. export laws
+and the export or import laws of other countries. You agree to comply strictly with all such laws
+and, in particular, shall with the Voxel Plugin PRO Product: (a) obtain any export, re-export, or
+import authorizations required by U.S. or Your local laws; (b) not design, develop or produce
+missile, chemical/biological, or nuclear weaponry; and (c) not provide the Voxel Plugin PRO Product
+to prohibited countries and entities identified in the U.S. export regulations.
+4. Governing Law. This agreement is governed by New York law, excluding conflict of law principles.
+Any action or proceeding arising out of or related to this agreement must be brought in a state or
+federal court located in New York, New York, and both parties irrevocably submit to the exclusive
+jurisdiction of such courts. All notices, requests and other communications under this agreement
+must be in writing (e-mail messages shall be deemed writings).
+5. LIMITED INTERNAL USER ARBITRATION. You acknowledge and agree that Voxel Plugin may, in its sole
+discretion, arbitrate disputes between Voxel Plugin PRO users involving the Voxel Plugin PRO Product
+(including any purchaser or supplier of the Voxel Plugin PRO Product), and such findings shall be
+final and non-appealable. Either party may request that Voxel Plugin arbitrate the dispute, or Voxel
+Plugin may elect, at its option, to arbitrate the dispute. After Voxel Plugin elects to arbitrate
+any dispute hereunder, Voxel Plugin will waive any rights to a commission from both the Purchase and
+arbitration, and the parties must keep the results and process confidential and may not disclose
+anything related to the dispute to any other party (whether by oral, written, or other type of
+disclosure). To resolve disputes, Voxel Plugin may decide to terminate or suspend users, revoke the
+license, offer replacement the Voxel Plugin PRO Product, reestablish the licensee, or surrender or
+reallocate fees (whether by refund, charitable donation, or otherwise). Voxel Plugin may award up to
+3X the Purchase price to either party depending on the circumstances. YOU UNDERSTAND, ACKNOWLEDGE,
+AND AGREE THAT ACCEPTING THIS ARBITRATION PROVISION WAIVES RIGHTS TO JUDICIAL RESOLUTION, TRIAL BY
+JURY AND RIGHTS YOU WOULD OTHERWISE HAVE IF YOU HAD NOT AGREED TO THIS ARBITRATION PROVISION.
+6. Notice. Any notice under this agreement shall be via email to phyronnaz@gmail.com, provided that
+you receive an acknowledgement email from a Voxel Plugin representative within 5 business days. 
+7. Assignment. Voxel Plugin may not assign its rights under this agreement without providing you
+notice, except in the case of a bankruptcy, merger, acquisition, sale of all or substantially all of
+Voxel Plugin’s assets to a subsequent owner or operator, or similar event. You may not assign your
+rights under this agreement without the prior written consent of Voxel Plugin, which will not be
+unreasonably withheld.
+8. English. This agreement may be translated into other languages, but English is the official
+language of this agreement and in any conflict between the English language version and any other
+version, the English language version shall control.
+
+This Royalty Free License is effective for use with the Voxel Plugin PRO Product for use on or after
+January 12, 2020.
